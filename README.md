@@ -1,4 +1,4 @@
-### Hiii, nice to meet you 👋👋👋
+## Hiii, nice to meet you 👋👋👋
 My name is Linh Vo. I am a M.Sc. in Computer Science, majoring in Artificial Intelligence and Data Science. <br>
 Moreover, I am a 🐶 & 🐱 lover, furr-parent of 18 furr-babies: <br>
 
