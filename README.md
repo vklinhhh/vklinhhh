@@ -19,12 +19,21 @@ Moreover, I am a 🐶 & 🐱 lover, furr-parent of 18 furr-babies: <br>
 
 ![](https://img.shields.io/badge/Query-BigQuery-informational?style=flat&logo=googlebigquery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Query-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Query-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 
 ![](https://img.shields.io/badge/AI-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/AI-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/AI-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=fdf0d5)
+![](https://img.shields.io/badge/Deployment-Streamlit-informational?style=flat&logo=tensorflow&logoColor=white&color=FF4B4B)
+![](https://img.shields.io/badge/Deployment-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
+
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macos&logoColor=white&color=000000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+
+![](https://img.shields.io/badge/Apache-Airflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=017CEE)
+![](https://img.shields.io/badge/Apache-Hadoop-informational?style=flat&logo=apachehadoop&logoColor=white&color=66CCFF)
 
 ![](https://img.shields.io/badge/Visualize-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=fdf0d5)
 ![](https://img.shields.io/badge/Visualize-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=fdf0d5)
