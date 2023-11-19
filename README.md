@@ -1,7 +1,7 @@
 ## Hiii, nice to meet you 👋👋👋
 
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Linh+Võ&center=true&width=660&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Linh+Võ!&center=true&width=360&height=30">
 </p>
 I am a M.Sc. in Computer Science, majoring in Artificial Intelligence and Data Science. <br>
 Moreover, I am a 🐶 & 🐱 lover, furr-parent of 18 furr-babies: <br>
