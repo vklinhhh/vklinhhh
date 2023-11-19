@@ -1,19 +1,22 @@
 ## Hiii, nice to meet you 👋👋👋
-My name is Linh Vo. I am a M.Sc. in Computer Science, majoring in Artificial Intelligence and Data Science. <br>
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Linh+Võ&center=true&width=660&height=50">
+</p>
+I am a M.Sc. in Computer Science, majoring in Artificial Intelligence and Data Science. <br>
 Moreover, I am a 🐶 & 🐱 lover, furr-parent of 18 furr-babies: <br>
 
-* 🐶 : SuBin, SuSu , Gấu Trắng, Gấu Đốm , Gấu Nâu, Gấu Lùn, Gấu Xù, SuKem, Whisky, SuBeo, Lulu, Mặt Xệ, Mỹ Lùn, Mỹ Xù, Gấu Misa, Gấu Út, Gấu Bảy
-* 🐱  : Tiểu Miu
+* <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" />: SuBin, SuSu , Gấu Trắng, Gấu Đốm , Gấu Nâu, Gấu Lùn, Gấu Xù, SuKem, Whisky, SuBeo, Lulu, Mặt Xệ, Mỹ Lùn, Mỹ Xù, Gấu Misa, Gấu Út, Gấu Bảy 
+* <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> : Tiểu Miu
 
 ## 🎄 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/linh-vo-2607/) [![Portfolio](https://i.stack.imgur.com/tskMh.png) Portfolio](https://vklinhhh.github.io/v.k.linh/) 
-
-## 🤖 Tech-stack & Tools
+## 🤖 Tech-stack & Tools 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1D9FD7)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 
@@ -42,7 +45,7 @@ Moreover, I am a 🐶 & 🐱 lover, furr-parent of 18 furr-babies: <br>
 ![](https://img.shields.io/badge/Office-GoogleSlide-informational?style=flat&logo=googleslides&logoColor=white&color=FBBC04)
 ![](https://img.shields.io/badge/Office-GoogleSheets-informational?style=flat&logo=googlesheets&logoColor=white&color=34A853)
 
-## Some of funny things I have done
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Some of funny things I have done
 
 <a href="https://github.com/vklinhhh/Video-Event-Retrieval.git/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vklinhhh&repo=Video-Event-Retrieval&theme=gruvbox" />
